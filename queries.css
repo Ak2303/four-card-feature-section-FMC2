@@ -1,0 +1,67 @@
+@media only screen and (max-width: 768px){
+    .box{
+        width: 40%;
+    }
+    .box-cyan{
+        top: 40%;
+        left: 52.5%;
+    }
+    
+    .box-red{
+        top: 40%;
+        left: 7.5%;
+    }
+
+    .box-yellow{
+        top: 85%;
+        left: 52.5%;
+    }
+    
+    .box-blue{
+        margin-top: 1.5rem;
+        top: 85%;
+        left: 7.5%;
+    }
+
+    .box-cyan img,
+    .box-yellow img{
+        margin-top: 6.5rem;
+
+    }
+    
+}
+
+
+@media only screen and (max-width: 550px){
+
+    .heading{
+        font-size: 1.5rem;
+    }
+
+    .box{
+        margin: 0;
+        width: 70%;
+    }
+
+    .box-cyan{
+        top: 40%;
+        left: 15%;
+    }
+    
+    .box-red{
+        top: 85%;
+        left: 15%;
+    }
+
+    .box-yellow{
+        
+        top: 130%;
+        left: 15%;
+    }
+    
+    .box-blue{
+        top: 175%;
+        left: 15%;
+    }
+    
+}
